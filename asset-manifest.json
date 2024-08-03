@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/zamsyntax/zamta-react/static/css/main.507a3381.css",
+    "main.js": "/zamsyntax/zamta-react/static/js/main.a927853f.js",
+    "static/media/fotoo1.png": "/zamsyntax/zamta-react/static/media/fotoo1.3a4b4942b1f425f1155e.png",
+    "static/media/foto2.png": "/zamsyntax/zamta-react/static/media/foto2.51b2b303dfbbda0f53e9.png",
+    "static/media/foto3.png": "/zamsyntax/zamta-react/static/media/foto3.6b04a0d80ad614bff256.png",
+    "static/media/foto4.png": "/zamsyntax/zamta-react/static/media/foto4.10c7e21bf56d422109c3.png",
+    "static/media/foto7.png": "/zamsyntax/zamta-react/static/media/foto7.a6305189ec42804e97e7.png",
+    "static/media/foto9.png": "/zamsyntax/zamta-react/static/media/foto9.54d4305aac8a7852e67c.png",
+    "static/media/foto8.png": "/zamsyntax/zamta-react/static/media/foto8.6ace5ccb39ae0c42f6fe.png",
+    "static/media/foto5.png": "/zamsyntax/zamta-react/static/media/foto5.6d63dd3c1b1448f10f1b.png",
+    "static/media/zoro1.png": "/zamsyntax/zamta-react/static/media/zoro1.426b9e8947845e0ae451.png",
+    "static/media/comming.png": "/zamsyntax/zamta-react/static/media/comming.3fb49bf4ec17a16d5c74.png",
+    "static/media/Foto6.jpg": "/zamsyntax/zamta-react/static/media/Foto6.51cc4b915ba3b9955347.jpg",
+    "index.html": "/zamsyntax/zamta-react/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.507a3381.css",
+    "static/js/main.a927853f.js"
+  ]
+}
