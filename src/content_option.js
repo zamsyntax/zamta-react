@@ -1,7 +1,7 @@
 const logotext = "ZAMZAM";
 const meta = {
     title: "Zamzam Trizuama Aricsma",
-    description: "Saya Zamzam Trizuama Aricsma ini adalah informasi portofolio saya",
+    description: "Saya Zamzam Trizuama Aricsma 1 ini adalah informasi portofolio saya",
 };
 import zoroImage from './assets/images/zoro1.png';
 const introdata = {
