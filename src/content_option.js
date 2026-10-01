@@ -11,7 +11,7 @@ const introdata = {
         second: "I make cool designs",
         third: "I cybr scurity",
     },
-    description: "Halo! Saya Zamzam Trizuama Aricsma, seorang pelajar yang penuh semangat dari SMK Telkom Lampung. Saya tinggal di Negeri Katon, Kabupaten Pesawaran, Lampung. Saya memiliki ketertarikan besar dalam dunia teknologi dan pengembangan perangkat lunak. Di portofolio ini, saya ingin berbagi dengan Anda perjalanan belajar saya, proyek-proyek yang telah saya kerjakan, serta keterampilan yang telah saya kembangkan selama ini.",
+    description: "Halo! Saya Zamzam Trizuama Aricsma, seorang pelajar yang penuh semangat dari SMK Telkom Lampung.1 Saya tinggal di Negeri Katon, Kabupaten Pesawaran, Lampung. Saya memiliki ketertarikan besar dalam dunia teknologi dan pengembangan perangkat lunak. Di portofolio ini, saya ingin berbagi dengan Anda perjalanan belajar saya, proyek-proyek yang telah saya kerjakan, serta keterampilan yang telah saya kembangkan selama ini.",
     your_img_url: zoroImage,
 };
 
